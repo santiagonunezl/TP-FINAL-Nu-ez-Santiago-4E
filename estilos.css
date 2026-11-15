@@ -29,9 +29,7 @@ nav a {
     font-weight: bold;
 }
 
-nav a:hover {
-    text-decoration: underline;
-}
+
 
 .contenedor {
     width: 85%;
