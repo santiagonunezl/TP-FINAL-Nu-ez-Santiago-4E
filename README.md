@@ -1,4 +1,4 @@
-# Sabor Casero 🍅
+# Sabor Casero
 ## Secciones del sitio
 - **Inicio:** presentación de la página.
 - **Recetas:** ejemplos de comidas fáciles.
